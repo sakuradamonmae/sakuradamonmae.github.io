@@ -1,0 +1,15 @@
+<!--       robots.txt         -->
+
+
+User-agent: *
+Sitemap:  https://sakuradamonmae.github.io/sitemap.xml
+
+
+
+
+
+
+
+
+
+
